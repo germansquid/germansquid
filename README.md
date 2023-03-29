@@ -1,7 +1,7 @@
 # Wisdom of the sea
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://imgs.xkcd.com/comics/new.png" width="512px"/>
+<img src="https://imgs.xkcd.com/comics/new.png">
 
 
 # About Me:
