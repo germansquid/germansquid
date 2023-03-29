@@ -2,6 +2,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## About Me:
+[![test](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-rittirsch)
 Computer science student rn - most repos private due to potential sensitive content. Ask on your own risk...<br>
 Currently simping for AI stuff, kubernetes and morpheus.<br>
 Guilty for loose opsec and shilling for irresponsibilities.
