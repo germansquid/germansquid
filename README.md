@@ -8,7 +8,7 @@ If you need anything, feel free to let me know!
 
 :mailbox: Hit me up!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-rittirsch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ger_squiddlet) [![Mail Badge](https://img.shields.io/badge/-germansquid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:squiddlet@mailbox.org) [![Mail Badge](https://img.shields.io/badge/-@germansquiddlet-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/germansquiddlet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-rittirsch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ger_squiddlet) [![Mail Badge](https://img.shields.io/badge/-Mail@Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:squiddlet@mailbox.org) [![Mail Badge](https://img.shields.io/badge/-@germansquiddlet-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/germansquiddlet)
 
 <img src="https://imgs.xkcd.com/comics/new.png">
 
