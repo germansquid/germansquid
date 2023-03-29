@@ -2,8 +2,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## About Me:
-[alt](URL)](test)
-![TEST](https://img.shields.io/endpoint?color=asfasf&label=Trees planted&logo=green&url=www.twaddl.de)
 Computer science student rn - most repos private due to potential sensitive content. Ask on your own risk...<br>
 Currently simping for AI stuff, kubernetes and morpheus.<br>
 Guilty for loose opsec and shilling for irresponsibilities.
