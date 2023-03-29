@@ -1,8 +1,11 @@
-# 💫 About Me:
+# Wisdom of the sea
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+# About Me:
 I'm working on AI based Apps and Services<br>I'm currently learning kubernetes and cloud infrastructure and management<br>
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-rittirsch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ger_squiddlet) 
 
 # 💻 Tech Stack:
@@ -17,9 +20,6 @@ I'm working on AI based Apps and Services<br>I'm currently learning kubernetes a
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=germansquid&icon=0&color=8)](https://visitcount.itsvg.in)
