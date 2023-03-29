@@ -62,6 +62,3 @@ Source: <a href="https://xkcd.com/1953/">xkcd</a>
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=germansquid&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<br>
-[![](https://visitcount.itsvg.in/api?id=germansquid&icon=0&color=8)](https://visitcount.itsvg.in)
