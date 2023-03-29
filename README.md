@@ -1,6 +1,3 @@
-## Certified random quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## Hi, Jonas here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Jonas Rittirsch from Germany, currently 26 yo and busy as hell. Not up to fancy stuff, but if you got recommended one of my private repos, messge me for access. Due to content concerns they had to go into hiding... Most of my time these days goes into tutoring and creating materials for non-tech-nerds aiming to get them in touch with AI for, agile workflows and IT security compliance. <br>
@@ -10,6 +7,8 @@ If you need anything, feel free to let me know!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-rittirsch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ger_squiddlet) [![Mail Badge](https://img.shields.io/badge/-Mail@Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:squiddlet@mailbox.org) [![Mail Badge](https://img.shields.io/badge/-@germansquiddlet-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/germansquiddlet)
 
+### Certified random quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img src="https://imgs.xkcd.com/comics/new.png">
 
 ## 💻 Tech Stack:
