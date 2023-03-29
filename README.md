@@ -53,8 +53,7 @@ If you need anything, feel free to let me know!
 
 ---
 <br>
-<img src="https://imgs.xkcd.com/comics/the_history_of_unicode.png">
-Source: <a href="https://xkcd.com/1953/">xkcd</a> 
+<img src="https://imgs.xkcd.com/comics/the_history_of_unicode.png"> Source: <a href="https://xkcd.com/1953/">xkcd</a> 
 <br>
 
 ---
