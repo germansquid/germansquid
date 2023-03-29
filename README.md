@@ -1,5 +1,8 @@
 # Wisdom of the sea
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://imgs.xkcd.com/comics/new.png" width="512px"/>
+
 
 # About Me:
 I'm working on AI based Apps and Services<br>I'm currently learning kubernetes and cloud infrastructure and management<br>
@@ -19,7 +22,7 @@ I'm working on AI based Apps and Services<br>I'm currently learning kubernetes a
 [![](https://gtce.itsvg.in/api?username=@ger_squiddlet)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=germansquid&icon=0&color=8)](https://visitcount.itsvg.in)
