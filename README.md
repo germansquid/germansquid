@@ -51,7 +51,7 @@ If you need anything, feel free to let me know!
 
 ---
 <br>
-<img src="https://imgs.xkcd.com/comics/new.png">
+<img src="https://imgs.xkcd.com/comics/duty_calls.png" width:800 px>
 
 <br>
 
