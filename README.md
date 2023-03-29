@@ -51,8 +51,8 @@ If you need anything, feel free to let me know!
 
 ---
 <br>
-<img src="https://imgs.xkcd.com/comics/duty_calls.png" width:800 px>
-
+<img src="https://imgs.xkcd.com/comics/still_no_sleep.png">
+Source: <a href="https://xkcd.com/776/">xkcd</a> 
 <br>
 
 ---
@@ -60,18 +60,3 @@ If you need anything, feel free to let me know!
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=germansquid&icon=0&color=8)](https://visitcount.itsvg.in)
-
-
-
-
-<!-- 
-
-<details>
-</details>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=germansquid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=germansquid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=germansquid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
--->
