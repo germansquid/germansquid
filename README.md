@@ -2,7 +2,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## About Me:
-<g xmlns="http://www.w3.org/2000/svg" clip-path="url(#r)"><rect width="41" height="20" fill="#555"/><rect x="41" width="51" height="20" fill="#97ca00"/><rect width="92" height="20" fill="url(#s)"/></g>
+
 ![TEST](https://img.shields.io/endpoint?color=asfasf&label=Trees planted&logo=green&url=www.twaddl.de)
 Computer science student rn - most repos private due to potential sensitive content. Ask on your own risk...<br>
 Currently simping for AI stuff, kubernetes and morpheus.<br>
@@ -22,7 +22,7 @@ Guilty for loose opsec and shilling for irresponsibilities.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=germansquid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@@ger_squiddlet)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=@ger_squiddlet)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=germansquid&icon=0&color=8)](https://visitcount.itsvg.in)
