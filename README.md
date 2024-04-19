@@ -1,6 +1,6 @@
 ## Hi, Jonas here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Jonas Rittirsch from Germany, currently 26 yo and busy as hell. Not up to fancy stuff, but if you got recommended one of my private repos, messge me for access. Due to content concerns they had to go into hiding... Most of my time these days goes into tutoring and creating materials for non-tech-nerds aiming to get them in touch with AI for, agile workflows and IT security compliance. <br>
+I'm Jonas Rittirsch from Germany, currently 27 years old and busy as hell. Not up to fancy stuff, but if you got recommended one of my private repos, message me for access. Due to content concerns, they had to go into hiding... Most of my time these days goes into tutoring and creating materials for non-tech-nerds aiming to get them in touch with AI for, agile workflows and IT security compliance. <br>
 If you need anything, feel free to let me know!
 
 :mailbox: Hit me up!
